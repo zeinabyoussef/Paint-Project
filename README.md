@@ -9,21 +9,18 @@ supported Undo operations.
 # Features:
 1.Colors Buttons : The user should press one of these buttons before drawing to draw 
 using this color.  
+
 • Red 
-
 • Green 
-
 • Blue 
 
 2. Shapes Buttons: The user should press one of these buttons before the drawing to 
 draw a shape by dragging from a start point to an end point. The shape should be 
-drawn while dragging till the user release the mouse button. 
+drawn while dragging till the user release the mouse button.
+
 • Rectangle
-
 • Oval 
-
 • Line
-
 
 4. Free Hand Button: The user should press on this button to doddle while dragging.
    
