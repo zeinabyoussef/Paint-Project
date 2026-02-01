@@ -1,4 +1,4 @@
- HEAD
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -53,4 +53,4 @@ bin/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
- 2423d952fcb31e4e3b9af97d6be02573581b9710
+
